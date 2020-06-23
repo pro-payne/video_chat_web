@@ -5,8 +5,6 @@
 4. On the caller's page put a random chat id that has at least 9 characters, then share that chat id with the receiver
 5. As a caller you must be the first one to start the call then receiver joins in by pressing join chat
 
-on this one from the caller.js and receiver.js replace localhost:3200 with  localhost:3500
-
 ### For use Online
 
 Run ngrok http 3500
